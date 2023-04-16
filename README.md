@@ -20,7 +20,7 @@ Metoda przycinania alfa-beta znacznie redukuje liczbę analizowanych węzłów w
 Tematem projektu jest implementacja algorytmu MiniMax z obcinaniem α – β oraz zbadanie wpływu głębokości przeszukiwania dla gry Młynek na 6 pionków (ang. Six Men’s Morris) uwzględniając warunek, że dla różnych ruchów o tej samej jakości, algorytm powinien zwracać losowy z nich.
 
 
-=========================================================================================
+=================================================================================
 
 **[ENG]**
 
